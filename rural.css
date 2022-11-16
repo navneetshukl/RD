@@ -1,0 +1,107 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.container{
+    width:100vw;
+}
+.canvas{
+    width:90%;
+    margin:auto ;
+}
+.mid{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.color{
+    background-color:darkred;
+}
+#navigation ul li{
+    display: inline-block;
+    background-color: black;
+    width: 104px;
+    height: 30px;
+    color: white;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+  }
+    
+
+p{
+    text-align:justify ;
+    color:red;
+    font-size:12px;
+}
+#navigation ul{
+    background-color:black;
+}
+h2{
+    color:white;
+    text-align:center ;
+}
+h4{
+    color:white;
+    text-align:center ;
+}
+marquee a{
+   
+font-size: 20px;
+}
+marquee span{
+   
+    text-transform: uppercase;
+color: #000;
+font-weight: 700;
+float: left;
+margin-right: 15px;
+font-size: 20px;
+color: #a95d04;
+margin-bottom: 5%;
+}marquee{
+    font-size:12px;
+}
+#facebook{
+    background-color:darkblue;
+    width:200px;
+    height:35px;
+    line-height:35px;
+    text-align:center ;
+    margin:auto;
+    margin-top:10px;
+}
+#facebook a{
+    color:white;
+}
+#menu{
+    width:300px;
+    text-align:justify ;
+    display:inline-block ;
+    border:1px solid orange;
+    font-size:20px;
+    margin-top:10px;
+    padding:17px;
+    padding-top:0px;
+}
+#menu li{
+    list-style: none;
+    margin:10px;
+}
+.mid h5{
+    background-color:darkred;
+    color:white;
+    text-align:center ;
+    font-size:25px;
+    width:261px;
+    display: block;
+margin: auto;
+
+}
+
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+}
